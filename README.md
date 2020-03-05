@@ -1,8 +1,8 @@
 # mtcnn_training_kit
 
-​	mtcnn模型训练，参考自https://github.com/Sierkinhane/mtcnn-pytorch.git，已改完bug。
+​	mtcnn模型训练，参考自https://github.com/Sierkinhane/mtcnn-pytorch.git
 
-
+逐步修改bug中。。。
 
 ## bug Details：
 
@@ -69,6 +69,6 @@ with open(target_file, 'w+') as f:
 
 
 
-======================================================
-原README.md请见ORIGIN-README.md
-======================================================
+====================
+
+# 原README.md请见ORIGIN-README.md
