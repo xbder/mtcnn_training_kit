@@ -2,7 +2,7 @@
 
 ​	mtcnn模型训练，参考自https://github.com/Sierkinhane/mtcnn-pytorch.git
 
-逐步修改bug中。。。
+Using PyTorch，逐步修改bug中。。。
 
 ## bug Details：
 
