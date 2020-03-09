@@ -13,6 +13,7 @@ class WIDER(object):
         self.path_to_image = path_to_image
 
         self.f = loadmat(file_to_label)
+        # print("self.f.keys():", self.f.keys())
         self.event_list = self.f['event_list']
         self.file_list = self.f['file_list']
         self.face_bbx_list = self.f['face_bbx_list']
